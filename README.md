@@ -1,0 +1,1 @@
+This is the corrected Render deployment folder for Purnatraders.
